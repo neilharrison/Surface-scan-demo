@@ -1,6 +1,6 @@
 # Surface-scan-demo
 
-Tool to aid scanning of an object's surface, using specific sensor requirements such as depth of field, standoff distance and field of view.
+Tool to aid scanning of an object's surface using a robotic manipulator. Specific sensor requirements are defined such as depth of field, standoff distance and field of view.
 
 Given a pointcloud file, this will produce a set of positions and poses that could be used to scan the object entirely.
 
